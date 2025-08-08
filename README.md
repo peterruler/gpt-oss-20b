@@ -170,5 +170,3 @@ pip install watchdog
 ## Lizenz
 
 MIT License
-
-# Screenshot
