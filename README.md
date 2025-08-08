@@ -2,6 +2,10 @@
 
 Eine interaktive Chat-Anwendung mit dem GPT-OSS:20B Modell über Ollama und Streamlit.
 
+## Screenshot
+
+![GPT-OSS:20B Chat Interface](_Project/Screenshot.png)
+
 ## Voraussetzungen
 
 - Python 3.8+
@@ -166,3 +170,5 @@ pip install watchdog
 ## Lizenz
 
 MIT License
+
+# Screenshot
