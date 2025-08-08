@@ -6,6 +6,9 @@ Eine interaktive Chat-Anwendung mit dem GPT-OSS:20B Modell über Ollama und Stre
 
 ![GPT-OSS:20B Chat Interface](_Project/Screenshot.png)
 
+![GPT-OSS:20B Success](_Project/Screenshot2.png)
+- May wait for about 15 Minutes on M1 Mac with 16 GB Ram to see a result displayed.
+
 ## Voraussetzungen
 
 - Python 3.8+
